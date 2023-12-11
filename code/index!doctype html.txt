@@ -1,0 +1,96 @@
+<!doctype html>
+<!--Author, Anna Buan-->
+<html>
+<head>
+<meta charset="utf-8">
+<title>Introduction</title>
+<style type="text/css">
+body {
+    background-color: #A9A9A9;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+h1  {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #810000;
+}
+h2 {
+	text-align: center;
+    color: #810000;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+h3 {
+    color: #810000;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+p {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+</style>
+<link href="../News/css/sitestyles.css" rel="stylesheet" type="text/css">
+<link href="../News/css/contentstyles.css" rel="stylesheet" type="text/css">
+<link href="../News/css/sidebar.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+h4 {
+    font-size: 1em;
+    color: #FF9899;
+    width: 180px;
+    padding-bottom: 10px;
+}
+a {
+    color: #FF5354;
+}
+</style>
+</head>
+
+<body>
+<h1><img src="orangebuttbee2copy.jpg" width="549" height="135" alt=""/><br>
+	
+  <strong>HOME</strong></h1>
+	
+	
+<h4 style="textalign:center">Home •<br> 
+  <a href="about.html">About</a> •<br>
+  <a href="education.html">Education</a> •<br>
+  <a href="portfolio.html">Portfolio</a> •<br>
+  <a href="writing.html">Writing</a> •<br>
+<a href="contact.html">Contact</a></h4>
+
+<h2 style="textalign:center">Who I am</h2>
+	
+	
+<p>Hi, I’m Anna and in my second year of getting a BFA for film production.&nbsp; I have already worked on some student theater and film productions. Ultimately I want to work in film and comic production, with a focus on script/screenwriting and direction. I&rsquo;m already interested in web design and digital media (I currently work for an IT department with a background in graphic design), and continue to work on my skills in those areas. I&rsquo;m originally from the Chicago area with interests in film, comics, art, video games, science, history, theater, and writing.&nbsp;<strong id="docs-internal-guid-033beb90-7fff-e1f4-dbf9-9e2633c66b47"></strong></p>
+<p dir="ltr">	Available to hire in the Albuquerque area for film production, especially in the fields of: directing, screenwriting, grip and electric, and camera operation.&nbsp;</p>
+<p dir="ltr">	All photos and drawings on this site are mine. Check out work that I&rsquo;ve done on my <a href="portfolio.html">portfolio</a>.&nbsp;</p>
+	
+<h3 style="text-align:center">Quick Look</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4FwGcldQhU?si=7XWpTUpScM69ZqBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>Some of my favorite pieces that I've worked on! All photos and illustrations on this website are mine.</p>
+<br>
+<h2 style="textalign:center">Resume</h2>
+<p>Classic Cinemas Kendall 11: Floor staff (2021). Adobe Commons: Technical Assistant (January 2023-present). UNM Capstones: Second Camera Assistant, Gaffer/ Grip, art department, poster design (Fall 2023-Spring 2024).</p>
+	<p>Skills: </p>
+	<p dir="ltr">Graphic design, digital rendering, Google Workspace, Adobe Creative Cloud, camera operation, grip and electric (film), computer proficiency, technical theater, social media/ email/ graphic communication, power tool operation, research analysis, typography, public speaking, Maya animation.</p>
+	<p>Outside work/ interests: Former head of scenic artistry for Oswego's Standing O Theater Company (includes
+painting, stenciling, design, etc) and helped build the set.
+Volunteer at Kendall County Food Pantry and Feed My Starving Children, as well
+as various school events hosted from the elementary to high school level.
+Seven years of experience in Adobe products, six years of graphic design, and four years of digital rendering. 
+Photoshop, Illustrator, Acrobat, Lightroom, Premiere Pro/ Rush. Davinci. 
+</p>
+	<br>
+<h2>&nbsp;</h2>
+</body>
+</html>

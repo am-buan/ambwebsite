@@ -1,0 +1,73 @@
+<!doctype html>
+<!--Author, Anna Buan-->
+<html>
+<head>
+<meta charset="utf-8">
+<title>portfolio</title>
+	<style type="text/css">
+body {
+    background-color: #A9A9A9;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+h1  {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #810000;
+}
+h2 {
+	text-align: center;
+    color: #810000;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+h3 {
+    color: #810000;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+h4 {
+    font-size: 1em;
+    color: #FF9899;
+    width: 180px;
+    padding-bottom: 10px;
+}
+a {
+    color: #FF5354;
+}
+</style>
+</head>
+
+<body><h1><img src="orangebuttbee2copy.jpg" width="479" height="118" alt=""/><br>
+  <strong>PORTFOLIO</strong></h1>
+	
+<h4 style="textalign:center"><a href="index.html">Home</a> •<br> <a href="about.html">About</a> •<br> <a href="education.html">Education</a> •<br> Portfolio •<br> <a href="writing.html">Writing</a> •<br> <a href="contact.html">Contact</a></h4>
+	<p></p>
+	<p dir="ltr">I&rsquo;ve worked on a number of projects and have a lot of creative hobbies. Here&rsquo;s a look into some of what I&rsquo;ve worked on in the past, and what I may be able to do in the future.&nbsp;</p>
+	<br>
+<h2 style="textalign:center">FILMS</h2>
+	<blockquote>
+	  <p dir="ltr">Most of the short films I&rsquo;ve worked on are still in development, so here&rsquo;s a couple to watch in the meantime!&nbsp;</p>
+</blockquote>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/I4FwGcldQhU?si=2aRbAt3JfSRM20lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+	<blockquote>
+	  <p>JOLANDA: A short documentary showing the life of a local New Mexican bead artist. I was the director of photography and editor for this. It won the Cherry Reel film festival at UNM in 2023.</p>
+</blockquote>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/aI_Yq3ptfxE?si=q4w6W-NJT-cz2Xwu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<blockquote>
+	  <p>REM Girl: A very, very horror short I did for fun over the summer. I wrote, directed, and edited this. </p>
+</blockquote>
+<h2 style="textalign:center">ARTWORK</h2>
+	<blockquote>
+	  <p>A lot of my artwork has been inspired by comic artists - both classic and more recent artists - like George Pérez, Alex Ross, Jorge Jiménez, Joëlle Jones, and Travis G. Moore. Though I&rsquo;m not half as good as those artists, I hope to be able to convey character and emotion as well as they can now. (Left to Right): A knight with vines wrapped around her, a golden prince, another cool lady with a sword covered in blood, a render of two skeletons kissing, Medusa in her cave, and a study of lighting and colors with an angel. </p>
+</blockquote>
+<h2 style="textalign:center">PHOTOGRAPHY</h2>
+	<blockquote>
+	  <p>I&rsquo;m more of a wildlife photographer than anything, but I will try to capture anything that catches my eye. Bugs, birds, and trees are my favorites!</p>
+</blockquote>
+</body>
+</html>
